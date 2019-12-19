@@ -1,0 +1,24 @@
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+button {
+  margin-top: 5%;
+  border-radius: 30px;
+  background: #0033cc;
+  color: #ff9900;
+  width: 50vw;
+  height: 1.5rem;
+  font-size: large;
+  box-shadow: none;
+}
+
+input {
+  height: 8vh;
+  width: 90vw;
+  border-radius: 30px;
+  box-shadow: none;
+}
