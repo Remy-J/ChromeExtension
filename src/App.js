@@ -1,5 +1,4 @@
 import React from "react"
-import Search from "./components/search/Search"
 import Login from "./components/Users/Login"
 
 import "./App.css"

@@ -20,7 +20,7 @@ class Search extends Component {
     })
   }
 
-  getCrawlers() {
+  getCrawlers = () => {
     const crawlerAPI = process.env.FOLHOMEE_API_CRAWLERS
     const universe = process.env.FOLHOMEE_UNIVERSE_CRAWLERS
     const token = process.env.FOLHOMEE_TOKEN_CRAWLERS
